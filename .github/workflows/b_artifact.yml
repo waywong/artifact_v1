@@ -3,7 +3,7 @@ name: artifact
 on: [push]
 
 env:
-  FILE_NAME: hello-server.go
+  FILE_NAME: hello-server
 
 jobs:
   build:
